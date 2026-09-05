@@ -6,7 +6,7 @@ records a **tamper-evident fingerprint** of the discovery on a local Ethereum
 blockchain (Ganache) — with re-verification of the stored record against a
 freshly recomputed hash.
 
-Built for **HH Goa 2026 Shortlisting — Task #3: Face Identification & Blockchain Verification**.
+
 
 ---
 
